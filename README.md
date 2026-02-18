@@ -67,7 +67,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/<YOUR_USERNAME>/Retail-Sales-AI-Assistant.git
+git clone https://github.com/Harsh-docode24/Retail-Sales-AI-Assistant.git
 cd Retail-Sales-AI-Assistant
 
 # Create virtual environment
